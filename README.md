@@ -1,6 +1,6 @@
 # Reverse-Shell
- Run the server.py with #py server.py
- Run the client.py with #py client.py
+- Run the server.py with #py server.py
+- Run the client.py with #py client.py
 
 >When the client connect to the server, here you go. 
 
