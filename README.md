@@ -14,4 +14,4 @@
 - mkdir <name>
 - ...
 
-/!\/!\/!\ I AM NOT RESPONSABLE OF YOU ACTS. /!\/!\/!\
+/!\/!\/!\ I AM NOT RESPONSABLE OF YOUR ACTS. /!\/!\/!\
