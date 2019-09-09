@@ -9,7 +9,7 @@
 - pwd
 - cd <folder> / <..>
 - ls
-- echo 'print('Hello World !')' > hello_world.py
+- echo print('test') > test.py
 - py ./hello_world.py
 - mkdir <name>
 - ...
